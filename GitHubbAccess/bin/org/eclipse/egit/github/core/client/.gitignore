@@ -1,0 +1,12 @@
+/DateFormatter.class
+/EventFormatter.class
+/GitHubClient.class
+/GitHubRequest.class
+/GitHubResponse.class
+/GsonUtils.class
+/IGitHubConstants.class
+/NoSuchPageException.class
+/PageIterator.class
+/PageLinks.class
+/PagedRequest.class
+/RequestException.class
